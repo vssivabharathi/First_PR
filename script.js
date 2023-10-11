@@ -30,8 +30,8 @@ function updateReadme() {
           const message = $(".message1").text();
 
           return `
-<tr width="900px">
-  <td align="center"><img src="${imgSrc}" width="400px" height="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
+<tr>
+  <td align="center"><img src="${imgSrc}" width="300px" height="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
   <td align="center"><i>${message}</i></td>
 </tr>`;
         } catch (err) {
