@@ -30,11 +30,10 @@ function updateReadme() {
           const message = $(".message1").text();
 
           return `
-          <tr width="900px">
-            <td align="center"><img src="${imgSrc}" width="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
-            <td align="center"><b>${message}</b></td>
-          </tr>`;
-          
+<tr width="900px">
+  <td align="center"><img src="${imgSrc}" width="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
+  <td align="center">${message}</td>
+</tr>`;
         } catch (err) {
           console.error(`Error reading file ${file}:`, err);
           return `| Error reading file |  |`;
