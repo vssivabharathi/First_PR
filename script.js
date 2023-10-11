@@ -31,7 +31,7 @@ function updateReadme() {
 
           return `
 <tr>
-  <td align="center"><img src="${imgSrc}" width="300px" height="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
+  <td align="center"><img src="${imgSrc}" width="100px" height="100px" alt=""/><br /><sub><b>${name}</b></sub><br /></td>
   <td align="center"><i>${message}</i></td>
 </tr>`;
         } catch (err) {
