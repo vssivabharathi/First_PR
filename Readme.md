@@ -18,9 +18,10 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
 
    ```
    <div class="card">
-       <img src="your_github_profile_link" alt="Image" >
+       <img src="https://github.com/account" alt="siva
+   " >
        <div>
-           <p class="name">NAME : <b class="name1" style="color: #d2b863">Your_Name</b></p>
+           <p class="name">NAME : <b class="name1" style="color: #d2b863">Sivabharathi</b></p>
            <p class="message">MESSAGE : <b class="message1" style="color: #d2b863">My First PR</b></p>
        </div>
    </div>
