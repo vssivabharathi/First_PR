@@ -18,9 +18,9 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
 
    ```
    <div class="card">
-       <img src="your_github_profile_link" alt="Image" >
+       <img src="https://github.com/vssivabharathi" alt="" >
        <div>
-           <p class="name">NAME : <b class="name1" style="color: #d2b863">Your_Name</b></p>
+           <p class="name">Name : <b class="name1" style="color: #d2b863">Sivabharathi</b></p>
            <p class="message">MESSAGE : <b class="message1" style="color: #d2b863">My First PR</b></p>
        </div>
    </div>
@@ -39,7 +39,7 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
    - Open the terminal/command prompt inside the cloned folder.
    - Run `git add .` to stage the file for committing.
    - Let's commit! Run `git commit -m "Your commit message"`. Get creative with your commit message. You can follow the below format:
-     - "[your name]: Add me as a contributor"
+     - "[Sivabharathi]: Add me as a contributor"
      - For instance: "[Hemanth]: Add me as a contributor"
    - Now let's get these changes to your GitHub repo. Run `git push origin main`.
 
