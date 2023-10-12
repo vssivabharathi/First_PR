@@ -1,3 +1,5 @@
+![Hacktoberfest Poster](./assets/poster.png)
+
 # Welcome to Hacktoberfest 2023!
 
 Begin your Open Source Journey as a contributor by learning to make Pull Requests to a repository. 
