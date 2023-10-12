@@ -52,3 +52,6 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
    ![Make a Pull Request](./assets/PR1.png)
 
 9. Google will be your best friend in case you get stuck at any point from now. Now go ahead and make your first cool PR! Style this appropriately.
+
+
+[Leaderboard](http://51.20.142.245:8000/)
